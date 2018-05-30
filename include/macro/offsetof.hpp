@@ -1,0 +1,1 @@
+#define offsetof(S,m) (size_t) &(((S*)0)->m)
