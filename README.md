@@ -8,6 +8,6 @@
 
 主要借鉴
 
-- Imperfect C++ - Matthew Wilson
+- Imperfect C++ - Matthew Wilson [STLsoft](https://github.com/synesissoftware/STLSoft-1.10-delta)
 - Modern C++ Design - AA
 - gcc ext\pb_ds
