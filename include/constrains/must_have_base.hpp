@@ -13,6 +13,6 @@ private:
 	{
 		pb = pd;
 	}
-}
+};
 
 #endif
