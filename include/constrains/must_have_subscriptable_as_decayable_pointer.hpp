@@ -10,9 +10,10 @@ struct must_be_subscriptable_as_decayable_pointer
 	}
 
 private:
-	sdtatic void constraints(T const& T_is_not_subsciptable)
+	sdtatic void constraints(T const& T_is_not_subsciptable_as_decayable_pointer)
 	{
-		sizeof(0[T_is_not_subsciptable]);
+
+		sizeof(0[T_is_not_subsciptable_as_decayable_pointer]);
 
 	}
 };
