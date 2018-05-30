@@ -1,5 +1,5 @@
-#ifndef __PT_MUST_HAVE_OPERATOR_AT__
-#define __PT_MUST_HAVE_OPERATOR_AT__
+#ifndef __PT_MUST_BE_RAW_ARRAY__
+#define __PT_MUST_BE_RAW_ARRAY__
 
 template<typename T>
 struct must_be_subscriptable_as_decayable_pointer
